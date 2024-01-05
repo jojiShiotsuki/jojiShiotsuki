@@ -19,18 +19,18 @@
       <h3 align="center">Fuji Peak Realty</h3>
         <br/>
         <a target="_blank" href="warm-recess.localsite.io">
-            <img src="images/barberThumbnail.png" width="100%" alt="Spectral Barber"/>
+            <img src="images/fujipeakrealty.gif" width="100%" alt="Fuji Peak Realty"/>
         </a>
         <br />
         <p align="center">
-			<a href="https://github.com/jojiShiotsuki/spectralBarber" target="_blank">
+			<a href="https://github.com/jojiShiotsuki/fujipeakrealty" target="_blank">
 				<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
 			</a>
-			<a href="https://spectralbarber.netlify.app/" target="_blank">
+			<a href="warm-recess.localsite.io" target="_blank">
 				<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
 			</a>
       	</p>
-        <p><strong>HTML5, CSS , Javascript, HTML5UP</strong> - A fully responsive, beautiful, and modern website for an on trend full-service barber</p>
+        <p><strong>HTML5, CSS , Javascript, Wordpress</strong> - A full stack website for a real estate company capable of booking appointments with agents and browsing through latest postings.</p>
     </td>
   </tr>
   <tr>
