@@ -18,7 +18,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Fuji Peak Realty</h3>
         <br/>
-        <a target="_blank" href="warm-recess.localsite.io">
+        <a target="_blank" href="https://warm-recess.localsite.io">
             <img src="images/fujipeakrealty.gif" width="100%" alt="Fuji Peak Realty"/>
         </a>
         <br />
@@ -26,10 +26,11 @@
 			<a href="https://github.com/jojiShiotsuki/fujipeakrealty" target="_blank">
 				<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
 			</a>
-			<a href="warm-recess.localsite.io" target="_blank">
+			<a href="https://warm-recess.localsite.io" target="_blank">
 				<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
 			</a>
       	</p>
+        <span>Username : mineral <br> Password : tremendous <br></span>
         <p><strong>HTML5, CSS , Javascript, Wordpress</strong> - A full stack website for a real estate company capable of booking appointments with agents and browsing through latest postings.</p>
     </td>
   </tr>
