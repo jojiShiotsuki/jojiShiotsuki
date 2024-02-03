@@ -58,7 +58,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
       <br />
-        <a target="_blank" href="jojishiotsuki.netlify.app">
+        <a target="_blank" href="https://jojishiotsuki.netlify.app">
           <img src="images/thumbnail.png" width="100%" alt="Portfolio"/>
         </a>
       <br />
