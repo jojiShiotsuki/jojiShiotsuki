@@ -50,6 +50,7 @@
 				<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
 			</a>
       	</p>
+        <span>Email : test@gmail.com <br> Password : testtest123</span>
         <p><strong>HTML5, CSS , Javascript, Node.js, Express.js, Tailwind</strong> - A full stack website for a construction firm to add, update and see ongoing projects.</p>
     </td>
   </tr>
