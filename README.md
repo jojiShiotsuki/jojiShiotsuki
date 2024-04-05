@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joji Shiotsuki</h1>
-<h3 align="center">Hi, im a Software Engineer at 100 Devs, I am looking for a position where i can affect positive change at scale and expand my knowledge in Software Engineering. I am currently focusing on Web Development - HTML, CSS, Javascript, express.js, node.js and react Opportunities, with a secondary focus on AI.</h3>
+<h3 align="center">Hi, im a Software Engineer at 100 Devs, I am looking for a position where i can affect positive change at scale and expand my knowledge in Software Engineering. I am currently focusing on Web Development - Wordpress, HTML, CSS, Javascript, express.js, node.js and react Opportunities, with a secondary focus on AI.</h3>
 
 - 👨‍💻 All of my projects are available at [https://jojishiotsuki.netlify.app/](https://jojishiotsuki.netlify.app/)
 
@@ -14,7 +14,25 @@
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Fuji Peak Realty</h3>
+        <br/>
+        <a target="_blank" href="warm-recess.localsite.io">
+            <img src="images/barberThumbnail.png" width="100%" alt="Spectral Barber"/>
+        </a>
+        <br />
+        <p align="center">
+			<a href="https://github.com/jojiShiotsuki/spectralBarber" target="_blank">
+				<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+			</a>
+			<a href="https://spectralbarber.netlify.app/" target="_blank">
+				<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+			</a>
+      	</p>
+        <p><strong>HTML5, CSS , Javascript, HTML5UP</strong> - A fully responsive, beautiful, and modern website for an on trend full-service barber</p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Spectral Barber</h3>
