@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joji Shiotsuki</h1>
-<h3 align="center">Hi, im a Software Engineer at 100 Devs, I am looking for a position where i can affect positive change at scale and expand my knowledge in Software Engineering. I am currently focusing on Web Development - Wordpress, HTML, CSS, Javascript, express.js, node.js and react Opportunities, with a secondary focus on AI.</h3>
+<h3 align="center">Hi, im a Software Engineer, I am looking for a position where i can affect positive change at scale and expand my knowledge in Software Engineering. I am currently focusing on Web Development - Wordpress, HTML, CSS, Javascript, express.js, node.js and vue Opportunities, with a secondary focus on AI.</h3>
 
 - 👨‍💻 All of my projects are available at [https://jojishiotsuki.netlify.app/](https://jojishiotsuki.netlify.app/)
 
